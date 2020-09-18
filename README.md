@@ -23,6 +23,7 @@ and failed campaigns. Finally, we pulled data for Louise regarding two questions
 potential future projects, the first about successful campaigns for plays that entered the Edinburgh
 Fringe Festival, and the second regarding the difference between successful and failed campaigns for 
 musicals in Great Britain.
+![Central Tendency and Spread Results](https://github.com/greensleeves8/kickstarter_analysis/blob/master/Central_Tendency_and_Spread.png "Central Tendency and Spread")
 
 ### Analysis of Outcomes Based on Launch Date
 
