@@ -21,7 +21,7 @@ separated campaigns by country and whether they failed or succeeeded at reaching
 analyzed the measures of central tendency and spread to quantify the differences between successful 
 and failed campaigns. Finally, we pulled data for Louise regarding two questions she had about 
 potential future projects, the first about successful campaigns for plays that entered the Edinburgh
-fringe festival, and the second regarding the difference between successful and failed campaigns for 
+Fringe Festival, and the second regarding the difference between successful and failed campaigns for 
 musicals in Great Britain.
 
 ### Analysis of Outcomes Based on Launch Date
@@ -55,8 +55,8 @@ highest percentage of campaigns failing to reach their goal.
 
 Based on the data we analyzed comparing the success of Kickstarter campaigns to their financial goals, 
 the campaigns most likely to succeed were projects with a financial goal under $5000, though campaigns 
-in the range of $35000 to $45000 also had a high rate of success, though in a extremely small sample 
-size. Financial goals over $45000 were very unlikely to meet their financial goals. 
+in the range of $35,000 to $45,000 also had a high rate of success, albeit in a extremely small sample 
+size. Financial goals over $45,000 were very unlikely to meet their financial goals. 
 
 - What are some limitations of this dataset?
 
